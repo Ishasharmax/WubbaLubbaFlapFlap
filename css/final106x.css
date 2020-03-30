@@ -1,0 +1,76 @@
+/* -------------------------------------------------------------- */
+/* Fonts */
+
+/* find fonts that you like from https://www.google.com/fonts/ and include them here*/
+@import url(https://fonts.googleapis.com/css?family=Orbitron);
+@import url(https://fonts.googleapis.com/css?family=Special+Elite);
+
+
+/* -------------------------------------------------------------- */
+/* Framing Styles */
+
+body {
+    /* color */
+    color: black;
+    background-color: #8CD790;
+}
+
+a {
+    color: #8CD790;
+    text-decoration: none;
+}
+
+/* -------------------------------------------------------------- */
+/* Front Workaround -- Need to use fonts on the page to use on Canvas */
+
+#fontFix {
+    visibility: hidden;
+    /* hide this section */
+}
+
+.font-Orbitron {
+    font-family: 'Orbitron', sans-serif;
+}
+
+.font-Special-Elite {
+    font-family: 'Special Elite';
+}
+
+
+/* -------------------------------------------------------------- */
+/* Canvas Styles */
+
+#myCanvas {
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    margin-top: 20px;
+}
+
+/* -------------------------------------------------------------- */
+/* Button Styles */
+
+#canvasControls {
+    text-align: center;
+}
+
+/* -------------------------------------------------------------- */
+/* Alignment Rules */
+
+.center-text {
+    text-align: center;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.pic-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 140px;
+    margin-top: 20px;
+
+}
