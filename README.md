@@ -12,3 +12,4 @@ in Flappy Bird. In order to win the player must reach the end of world two. Ther
 objects fall from the top of the canvas, which is the asteroid in this case. When this level, level 2, is cleared the player wins the game.
 
 ## Sketch
+![wlff](wlff.png)
