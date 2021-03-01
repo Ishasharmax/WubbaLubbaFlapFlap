@@ -1,4 +1,7 @@
 # WubbaLubbaFlapFlap
+
+Play live [here](https://wubbalubbaflapflap.netlify.app/)
+
 #### This game inspired by the arcade game Flappy Bird, built by Vietnamese video game artist and programmer Dong Nguyen. 
 #### In the game the player controls a bird, attempting to fly between columns of green pipes without hitting them. 
 #### This game has the same premise with an addition of another level, which will increase in difficulty and when both levels are cleared, 
